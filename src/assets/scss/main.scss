@@ -87,4 +87,5 @@ section, .section {
 }
 
 // Modules
-// @import "modules/my-module.scss";
+@import "modules/header.scss";
+@import "modules/footer.scss";
